@@ -10,3 +10,8 @@ Companion repository for AMPLab assignment 2. Analysis of Arab Andalusian music 
 
 `extract_weighted` is an example notebook that does the same as above but with weighted PDFs.
 
+Utilizes [music21](https://web.mit.edu/music21/) to extract pitch information from [musicXML](https://www.musicxml.com/) scores.
+
+Dataset is obtained from the wider [Dunya Arab Andalusian dataset](https://zenodo.org/records/1291776)
+
+[1] M. Sordo, A. Chaachoo, and X. Serra, “Creating Corpora for Computational Research in Arab-Andalusian Music,” Proceedings of the 1st International Workshop on Digital Libraries for Musicology. ACM, Sep. 12, 2014. doi: 10.1145/2660168.2660182.
